@@ -5,7 +5,7 @@ from math_quiz import Random_integer, Random_operation, Operation
 class TestMathGame(unittest.TestCase):
 
     def test_Random_integer(self):
-        # Test random numbers generated are within the specified range
+        # Test random numbers generated are within the specific range
         min_val = 1
         max_val = 10
         for _ in range(1000):  # Test a large number of random values
