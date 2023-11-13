@@ -7,5 +7,5 @@ setup(name='math',
       author='sidharth',
       author_email='sidharth.gts550@gmail.com',
       license='MIT',
-      packages=['funniest'],
+      packages=['math_quiz'],
       zip_safe=False)
